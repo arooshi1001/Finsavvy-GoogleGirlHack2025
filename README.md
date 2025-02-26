@@ -1,6 +1,6 @@
 # FinSavvy - AI-powered Personalized Tax Coach
 
-## 📝 ** Description**
+## 📝 **Description**
 
 > **FinSavvy** is an AI-powered personalized tax coach designed to simplify and automate the tax filing process. This repository contains the complete codebase, AI models, and deployment configurations for FinSavvy. The solution uses advanced AI/ML techniques to provide real-time deduction predictions, automate filing, and offer personalized financial literacy advice through an NLP-powered chatbot. With robust security measures and scalable cloud infrastructure, FinSavvy ensures efficient, secure, and user-friendly tax management.
 
